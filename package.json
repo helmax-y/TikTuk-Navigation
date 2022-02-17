@@ -1,5 +1,8 @@
 {
-  "name": "tiktuk-navigation",
+  "name": "@helmax-y/tiktuk-navigation",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/helmax-y"
+  },
   "version": "1.0.0",
   "description": "",
   "scripts": {
